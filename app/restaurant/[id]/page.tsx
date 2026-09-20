@@ -65,7 +65,7 @@ export default function RestaurantPage() {
   if (notFound) {
     return (
       <main className={wrapper}>
-        <p>We couldn't find that restaurant.</p>
+        <p>We couldn&apos;t find that restaurant.</p>
       </main>
     );
   }
